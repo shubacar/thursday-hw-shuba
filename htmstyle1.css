@@ -1,0 +1,26 @@
+h1,h3{
+    color: darkcyan;
+}
+
+.ingredients{
+    font-family: Calibri;
+    font-size: medium;
+}
+#ingtitle{
+    color: blue;
+}
+.ingrlist{
+    background-image: url("fried-rice4.jpg");
+    color: brown;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Calibri;
+    font-size: large;
+}
+
+
+#cl1{
+    height: 200px;
+    width: 100px;
+    margin :10px;
+}
